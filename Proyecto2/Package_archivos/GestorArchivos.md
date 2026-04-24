@@ -1,3 +1,4 @@
+```java
 package archivos;
 import modelos.Juego;
 import estructuras.ListaSimple;
