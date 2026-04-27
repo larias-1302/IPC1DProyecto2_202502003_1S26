@@ -1,4 +1,3 @@
-```java
     private void jbtnTiendaActionPerformed(java.awt.event.ActionEvent evt) {                                           
         mostrar("TIENDA");
     }                                          
