@@ -1,4 +1,3 @@
-```java
 package hilos;
 import estructuras.Cola;
 import modelos.Torneo;
