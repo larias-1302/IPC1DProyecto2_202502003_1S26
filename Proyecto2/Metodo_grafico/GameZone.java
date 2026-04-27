@@ -1,4 +1,3 @@
-```java
 package proyecto2_ipc1_lab;
 import archivos.GestorArchivos;
 import archivos.ReportesHTML;
