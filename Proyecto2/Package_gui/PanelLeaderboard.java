@@ -1,4 +1,3 @@
-```java
 package gui;
 import modelos.Usuario;
 import archivos.GestorArchivos;
