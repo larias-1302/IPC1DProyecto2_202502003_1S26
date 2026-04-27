@@ -1,0 +1,3 @@
+001|GTA V|Accion|150|PC|10|Juego de mundo abierto
+002|FIFA 23|Deportes|200|PlayStation|5|Futbol realista
+003|Minecraft|Aventura|100|PC|20|Creatividad total
