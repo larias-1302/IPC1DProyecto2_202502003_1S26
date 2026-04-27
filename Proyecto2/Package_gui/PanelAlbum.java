@@ -1,4 +1,3 @@
-```java
 package gui;
 import archivos.GestorArchivos;
 import estructuras.*;
