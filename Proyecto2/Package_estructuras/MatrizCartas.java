@@ -1,4 +1,3 @@
-```java
 package estructuras;
 import modelos.Carta;
 
