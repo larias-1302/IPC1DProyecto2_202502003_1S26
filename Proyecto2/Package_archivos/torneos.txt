@@ -1,0 +1,3 @@
+T1|Torneo FIFA|FIFA 23|2026-06-10|15:00|50|5
+T2|Torneo Minecraft|Minecraft|2026-06-12|18:00|30|3
+T3|Torneo GTA|GTA V|2026-06-15|20:00|40|4

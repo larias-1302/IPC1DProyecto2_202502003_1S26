@@ -1,0 +1,9 @@
+Yessi|1200
+Emma|800
+Carlos|2500
+Elsa|400
+Bonilla|1700
+Jose|150
+Diego|2450
+Fatima|700
+Milo|2550
