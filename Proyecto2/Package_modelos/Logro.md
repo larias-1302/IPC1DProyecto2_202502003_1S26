@@ -1,4 +1,3 @@
-```java
 package modelos;
 
 public class Logro {
