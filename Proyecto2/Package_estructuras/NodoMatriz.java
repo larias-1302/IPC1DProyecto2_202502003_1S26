@@ -1,5 +1,4 @@
-```java
-}package estructuras;
+package estructuras;
 import modelos.Carta;
 
 public class NodoMatriz {
